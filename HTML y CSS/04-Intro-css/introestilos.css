@@ -1,0 +1,48 @@
+/*Estilos para colores*/
+.colores {
+    color: red;
+}
+
+.color-hexadecimal {
+    color: #BCE784;
+}
+
+.color-rgb {
+    color: rgb(53, 71, 226);
+}
+
+.color-rgba {
+    color: rgba(10, 10,10, 0.85);
+}
+
+/*Fondos*/
+.fondo {
+    /* background-color: cornflowerblue; */
+    background-image: url("https://miro.medium.com/max/1400/1*GYrdWMVoXHXDnHE5YnSLxQ.png");
+    background-size: cover cover;
+}
+
+.fondo-interno {
+    background-image: url("img/fondo.png");
+}
+
+/*Alto y ancho*/
+.ancho {
+    background-color: #BCE784; 
+    width: 200px;
+}
+
+.alto {
+    background-color: aquamarine;
+    width: 200px;
+    height: 200px;
+}
+
+.tarjeta {
+    border-style: solid;
+    border-color: rgb(150, 150, 150);
+    border-width: 1px;
+    /* border-top: none; */
+    padding: 10px 20px 30px 40px;
+    margin: 10px 0 10px 0;
+}
