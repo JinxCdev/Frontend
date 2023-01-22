@@ -1,0 +1,11 @@
+.div-1, .div-2 {
+    background-color: red;
+    /*display: block; por defecto - div tiene display block*/
+}
+
+.span-1 {
+    background-color: aqua;
+    /*display: inlene; span tiene por defecto display inline*/
+}
+
+/*Las imagenes tienen un display inline-block*/

@@ -1,0 +1,12 @@
+.galeria {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+}
+
+.imagen-galeria {
+    width: 245px;
+    height: 245px;
+    border: 1px solid white;
+}
