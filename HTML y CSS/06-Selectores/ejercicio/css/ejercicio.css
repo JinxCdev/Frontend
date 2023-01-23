@@ -1,0 +1,12 @@
+.boton:after {
+    content: "Pasa por encima";
+}
+
+.boton:hover {
+    color: #fff;
+    background-color: #008000;
+}
+
+.boton:after {
+    content: '¡Hecho!';
+}
