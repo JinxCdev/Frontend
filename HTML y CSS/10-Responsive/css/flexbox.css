@@ -1,0 +1,24 @@
+.contenedor {
+    background-color: yellow;
+    padding: 0.25rem;
+    display: flex;
+    gap: 0.5rem;
+    min-height: 5rem;
+    /*eje principal*/
+    justify-content: space-evenly;
+
+    /*eje secundario*/
+    align-items: center;
+
+    /* flex-direction: column; */
+}
+
+.item {
+    background-color: salmon;
+    padding: 0.25rem;
+    width: 10rem;
+}
+
+.item2 {
+    align-self: stretch;
+}

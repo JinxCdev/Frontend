@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.contenedor {
+    display: flex;
+    flex-direction: column-reverse;
+    gap: 20px;
+}
+
+.barralateral {
+    display: flex;
+    background-color: aquamarine;
+    height: 50px;
+    justify-content: space-between;
+    align-items:center;
+}
+
+.seccionPrincipal {
+    background-color: antiquewhite;
+    display: flex;
+    flex-grow: initial;
+    text-align: justify;
+}
+
+@media (min-width: 640px) {
+    .contenedor {
+        flex-direction: row;
+    }
+
+    .barralateral {
+        height: 825px;
+        flex-direction: column;
+        justify-content: space-around;
+    }
+
+    .seccionPrincipal {
+        padding: 10px;
+        background-color: antiquewhite;
+    }
+}
