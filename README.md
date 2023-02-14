@@ -1,2 +1,3 @@
 # Curso Frontend OpenBootcamp
-- HTML Y CSS - En progreso
+- HTML Y CSS - Culminado
+- JavaScript - Enprogreso

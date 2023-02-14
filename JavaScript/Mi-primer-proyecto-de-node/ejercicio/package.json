@@ -1,0 +1,15 @@
+{
+  "name": "01-ejercicio",
+  "version": "1.0.0",
+  "description": "Este es el ejercicio del modulo 1 con node",
+  "main": "index.js",
+  "scripts": {
+    "ejercicio": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "firts-project"
+  ],
+  "author": "jinson castillo",
+  "license": "ISC"
+}
