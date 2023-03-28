@@ -28,5 +28,3 @@ console.log(texto_largo.replace('los', 'cinco'))
 
 //Al utilizar la expresion regular /g (global), reemplaza todas las instancias
 console.log(texto_largo.replace(/los/g, 'cinco'))
-
-
